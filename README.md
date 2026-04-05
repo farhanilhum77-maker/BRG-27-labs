@@ -12,3 +12,4 @@ Setting Up Linux
 
 Next, I installed Ubuntu Linux using VirtualBox to simulate real server environment. I faced difficulty understanding how virtual machines allocate resources such as RAM and storage. However, after configuring the virtual machine with 20GB disk space and 4GB RAM, I successfully installed Ubuntu.
 
+<img width="1436" height="985" alt="Screenshot 2026-04-05 110739" src="https://github.com/user-attachments/assets/4a167323-6989-4525-bae6-d4f0831755dc" />
